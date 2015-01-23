@@ -4,4 +4,5 @@ https://github.com/gregory-adler/collaborative_writing_blog
 Yiwei Gao and Kevin Yedid Botton
 https://github.com/yiweig/cs370_prj1_yiweig_kybx86.git
 
-
+(Andrew) Reid Kilgore and Meera Hahn
+https://github.com/ARKilgore/DjangoTwitterClone
