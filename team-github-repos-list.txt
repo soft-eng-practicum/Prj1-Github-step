@@ -9,3 +9,6 @@ https://github.com/ARKilgore/DjangoTwitterClone
 
 Yu-Hsin (Henry) Chen and Nihar Parikh
 https://github.com/henryYHC/Computer-Science-Practicum/tree/master/Project%201
+
+Andrew Teng and Melissa Mendoza
+https://github.com/ateng3/DjangoToDoList
