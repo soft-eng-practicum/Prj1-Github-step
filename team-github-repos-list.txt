@@ -12,3 +12,6 @@ https://github.com/henryYHC/Computer-Science-Practicum/tree/master/Project%201
 
 Andrew Teng and Melissa Mendoza
 https://github.com/ateng3/DjangoToDoList
+
+Arif Sundrani and Deh Jun Tzou
+https://github.com/arifsundrani/Project1
