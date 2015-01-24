@@ -6,3 +6,6 @@ https://github.com/yiweig/cs370_prj1_yiweig_kybx86.git
 
 (Andrew) Reid Kilgore and Meera Hahn
 https://github.com/ARKilgore/DjangoTwitterClone
+
+Yu-Hsin (Henry) Chen and Nihar Parikh
+https://github.com/henryYHC/Computer-Science-Practicum/tree/master/Project%201
