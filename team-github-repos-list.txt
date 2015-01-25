@@ -27,3 +27,6 @@ https://github.com/JakeShelley1/BoomBlog
 
 Akshay Kohli, Fei Gao, and Tony Wang
 https://github.com/twang35/Rattle
+
+Shureed Kabir and Mourya Meda
+https://github.com/Shureed/Velocity
