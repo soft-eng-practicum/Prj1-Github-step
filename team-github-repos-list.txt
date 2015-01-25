@@ -30,3 +30,7 @@ https://github.com/twang35/Rattle
 
 Shureed Kabir and Mourya Meda
 https://github.com/Shureed/Velocity
+
+Brandon Valyan-Clark and Jack Barnes
+https://github.com/bvalyan/BlogProj/
+
