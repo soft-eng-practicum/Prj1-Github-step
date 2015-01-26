@@ -37,5 +37,7 @@ https://github.com/bvalyan/BlogProj/
 Wang wei and Yichu Lin
 https://github.com/lemonshrimp/TO-Do-List
 
+Sichong Huang and Ejian Zhou
+https://github.com/shuan43/Prj1
 Jake Mor and Tobias Gosselin
 https://github.com/TobyDGosselin/Prj1.git
