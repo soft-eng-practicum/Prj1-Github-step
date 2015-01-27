@@ -17,7 +17,7 @@ Arif Sundrani and Deh Jun Tzou
 https://github.com/arifsundrani/Project1
 
 Johnny Tan and Michael Conway 
-https://github.com/jtan25/warmupproject
+https://github.com/jtan25/Twitter
 
 Allen Herrera and Rui Ma 
 https://github.com/AllenHerrera/2DO-AllenRui
