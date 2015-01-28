@@ -41,7 +41,7 @@ Sichong Huang and Ejian Zhou
 https://github.com/shuan43/Prj1
 
 Jake Mor and Tobias Gosselin
-https://github.com/TobyDGosselin/Prj1.git
+https://github.com/jakemor/django_blog
 
 Adam Loftus and Yucheng Li
 https://github.com/yuchengli/Prj1_Liyucheng
