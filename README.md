@@ -1,2 +1,2 @@
-# Prj1-Github-HTTP
-Submit Github &amp; HTTP assignments here.
+# Prj1-Github-step
+Submit Github assignments here.
