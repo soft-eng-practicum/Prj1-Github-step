@@ -6,6 +6,6 @@ Mike Deiters, Jon Nguyen | Twitter Clone | https://github.com/miked49er/edu.ggc.
 Hailey Montgomery, Palmer Simmons | Twitter Clone| https://github.com/hmontgomery/TwitClone.git
 Matthew Thompson, Xavier Lazo | Todo List With Authentication | https://github.com/FatThompson/todo-list-with-auth
 Austin Seawell, Matt Stackpole | Twitter Clone | https://github.com/Knagus/MyFirstProject.git
+Sergey Sakharov, Eric Kim | Blog with posts and photo uploads via a form | https://github.com/EricDkim/ITEC3860-Project1-KimZakharov
 Abouabakar Winston Kone , Parth Patel | Twitter clone |https://github.com/akonee1/Project-1-AK-PP.git
 Anwar Saleeby, Wesley McDorman |Simple to do list with photo uploads and forms | https://github.com/chromalife/Software-Dev-Project-1.git
-
