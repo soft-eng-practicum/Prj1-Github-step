@@ -12,3 +12,4 @@ Anwar Saleeby, Wesley McDorman |Simple to do list with photo uploads and forms |
 Aston Tsou, Christopher Cates | Twitter Clone | https://github.com/iguitarguy/Project1.git
 Adam Printz, Laura Arevalo | Simple Todo List With Authentication | https://github.com/aprintz3/ProjectOne.git
 Roland Abrahantes, William Smith | Simple Todo List With Authentication | https://github.com/rabrahantes/ProjectOne.git
+David Rivera, Ernest Hatney | Twitter Clone | https://github.com/Dave89rr/Prj1Repository.git
