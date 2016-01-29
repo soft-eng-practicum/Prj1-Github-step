@@ -1,5 +1,4 @@
-Put your team member names
-And github repo URL
+###Put your team member names and github repo URL
 
 Demetri Clark, Adem Abafogi | Twitter Clone| https://github.com/dc3733/Project1Twit.git
 
